@@ -1,0 +1,28 @@
+{
+  "name": "muxi-studio-permit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkglimmer/Time-backtracking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkglimmer/Time-backtracking/issues"
+  },
+  "homepage": "https://github.com/darkglimmer/Time-backtracking#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.2.0",
+    "koa-send": "^4.1.0",
+    "koa-static": "^4.0.1",
+    "koa-useragent": "^1.0.0",
+    "swig": "^1.4.2"
+  }
+}
